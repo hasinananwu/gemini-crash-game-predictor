@@ -1,0 +1,6 @@
+{
+  "name": "Gemini Crash Game Predictor",
+  "description": "An interactive web application that uses a sophisticated time-based algorithm and Gemini AI to forecast outcomes for crash-style games. Users can input real results to dynamically adapt and improve the prediction model.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
